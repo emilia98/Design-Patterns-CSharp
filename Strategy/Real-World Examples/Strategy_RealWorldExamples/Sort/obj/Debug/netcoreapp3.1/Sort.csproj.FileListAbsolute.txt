@@ -1,0 +1,11 @@
+C:\Users\Emilia\Desktop\Design-Patterns-CSharp\Strategy\Real-World Examples\Strategy_RealWorldExamples\Sort\bin\Debug\netcoreapp3.1\Sort.exe
+C:\Users\Emilia\Desktop\Design-Patterns-CSharp\Strategy\Real-World Examples\Strategy_RealWorldExamples\Sort\bin\Debug\netcoreapp3.1\Sort.deps.json
+C:\Users\Emilia\Desktop\Design-Patterns-CSharp\Strategy\Real-World Examples\Strategy_RealWorldExamples\Sort\bin\Debug\netcoreapp3.1\Sort.runtimeconfig.json
+C:\Users\Emilia\Desktop\Design-Patterns-CSharp\Strategy\Real-World Examples\Strategy_RealWorldExamples\Sort\bin\Debug\netcoreapp3.1\Sort.runtimeconfig.dev.json
+C:\Users\Emilia\Desktop\Design-Patterns-CSharp\Strategy\Real-World Examples\Strategy_RealWorldExamples\Sort\bin\Debug\netcoreapp3.1\Sort.dll
+C:\Users\Emilia\Desktop\Design-Patterns-CSharp\Strategy\Real-World Examples\Strategy_RealWorldExamples\Sort\bin\Debug\netcoreapp3.1\Sort.pdb
+C:\Users\Emilia\Desktop\Design-Patterns-CSharp\Strategy\Real-World Examples\Strategy_RealWorldExamples\Sort\obj\Debug\netcoreapp3.1\Sort.csprojAssemblyReference.cache
+C:\Users\Emilia\Desktop\Design-Patterns-CSharp\Strategy\Real-World Examples\Strategy_RealWorldExamples\Sort\obj\Debug\netcoreapp3.1\Sort.AssemblyInfoInputs.cache
+C:\Users\Emilia\Desktop\Design-Patterns-CSharp\Strategy\Real-World Examples\Strategy_RealWorldExamples\Sort\obj\Debug\netcoreapp3.1\Sort.AssemblyInfo.cs
+C:\Users\Emilia\Desktop\Design-Patterns-CSharp\Strategy\Real-World Examples\Strategy_RealWorldExamples\Sort\obj\Debug\netcoreapp3.1\Sort.dll
+C:\Users\Emilia\Desktop\Design-Patterns-CSharp\Strategy\Real-World Examples\Strategy_RealWorldExamples\Sort\obj\Debug\netcoreapp3.1\Sort.pdb
